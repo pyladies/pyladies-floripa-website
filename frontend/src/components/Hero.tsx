@@ -27,9 +27,8 @@ export default function Hero() {
               Florianópolis
             </h1>
             <p className={styles.subtitle}>
-              Somos o capítulo local do movimento PyLadies. Organizamos encontros,
-              workshops e apoiamos mulheres que querem aprender Python e trabalhar
-              com tecnologia.
+              Empoderamos mulheres a liderarem o futuro da tecnologia.
+            Somos o capítulo local do movimento internacional PyLadies. Criamos um espaço seguro e colaborativo de encontros, workshops e conexões para impulsionar mulheres em todas as áreas da TI, de dados a produto, com um carinho especial por Python e o poder da nossa comunidade. Vem transformar a tecnologia com a gente!
             </p>
             <Button href={signupFormUrl} size="large" className={styles.cta}>
               {communityCtaLabel}
