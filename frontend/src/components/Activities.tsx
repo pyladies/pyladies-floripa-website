@@ -21,8 +21,7 @@ export default function Activities() {
           <div className={styles.header}>
             <h2 className={styles.title}>O que a gente faz?</h2>
             <p className={styles.description}>
-              Na PyLadies Floripa, mulheres encontram um lugar para aprender Python,
-              trocar experiências e se conhecer.
+              Criamos um espaço seguro e ativo de conexão, aprendizado e protagonismo feminino na tecnologia. O Python é nosso ponto de partida, mas vamos além, promovendo encontros, trocas de conhecimento e desenvolvimento de carreira para impulsionar mulheres em Tech.
             </p>
             <p className={styles.subtitle}>Nossas atividades incluem:</p>
           </div>
