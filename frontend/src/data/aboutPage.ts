@@ -9,26 +9,38 @@ export const aboutStats = [
 
 export const aboutTimeline = [
     {
-        year: '2018',
-        title: 'Primeiros encontros em Floripa',
+        year: '2015',
+        title: 'PyLadies Floripa: estreia oficial',
         description:
-            'Um grupo de mulheres apaixonadas por Python começa a se reunir para estudar, trocar experiências e criar um espaço de acolhimento na cidade.',
+            'Em dezembro de 2015 a PyLadies Floripa ganhou vida. O primeiro encontro de uma história incrível.',
     },
     {
-        year: '2020',
+        year: '2016',
+        title: 'Fortalecendo os laços na ilha',
+        description:
+            'Criamos um espaço vivo de trocas, estudos práticos e acolhimento para mulheres na tecnologia, fortalecidas com a parceria do movimento Anitas.',
+    },
+    {
+        year: '2017',
         title: 'Comunidade em expansão',
         description:
-            'Meetups, workshops e rodas de conversa passam a acontecer com mais regularidade, online e presencial, mesmo nos períodos de distanciamento.',
+            'Tivemos a alegria de apoiar o surgimento do capítulo PyLadies Blumenau, impulsionando a presença feminina na TI além das nossas fronteiras.',
     },
     {
-        year: '2023',
-        title: 'Projetos de longo prazo',
+        year: '2019',
+        title: '1° PyCinema Pyladies Floripa',
         description:
-            'Iniciativas como PyBook, mentorias e grupos de estudo entram na rotina do grupo.',
+            'Levamos nossas conversas sobre tecnologia, cinema e protagonismo feminino para fora das telas. Unimos pipoca, debate profundo e comunidade no nosso primeiro PyCinema.',
+    },
+    {
+        year: '2022',
+        title: 'Retomada e reconexão',
+        description:
+            'De um pybr de Manaus, uma troca de ideias somada a atitude de algumas pyladies, retomam e agitam as atividades da comunidade',
     },
     {
         year: '2024',
-        title: 'Um ano de muita atividade',
+        title: 'Um ano de encontros e impacto',
         description:
             'Mais de 90 encontros realizados, com workshops, palestras, confraternizações e participação ativa em eventos da comunidade tech.',
     },
@@ -37,6 +49,12 @@ export const aboutTimeline = [
         title: 'Escola PyLadies Floripa',
         description:
             'Seleção no programa #ChamaAsMina da LINUXtips abre caminho para trilhas em Python, Linux, Docker, AWS e formação técnica contínua.',
+    },
+    {
+        year: '2026',
+        title: 'Juntas na Python Brasil',
+        description:
+            'Mobilização e campanha de arrecadação que garantiu ingressos para que mulheres da nossa comunidade pudessem participar da Python Brasil, fortalecendo e impulsionando a presença feminina na tecnologia.',
     },
 ] as const
 
