@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /portal
 
-Sitemap: https://pyladiesfloripa.com.br/sitemap.xml
+Sitemap: https://floripa.pyladies.com/sitemap.xml
