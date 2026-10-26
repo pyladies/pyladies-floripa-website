@@ -18,7 +18,7 @@ import { buildAboutStructuredData } from '../lib/structuredData'
 import styles from './AboutPage.module.css'
 
 const ABOUT_SEO_DESCRIPTION =
-    'História, pilares e projetos da PyLadies Floripa. Comunidade de Python para mulheres em Florianópolis desde 2018.'
+    'História, pilares e projetos da PyLadies Floripa. Comunidade de Python para mulheres em Florianópolis desde 2015.'
 
 export default function AboutPage() {
     usePageSeo({
